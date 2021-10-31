@@ -5,10 +5,12 @@ import Router from 'next/router';
 import { initGA, logPageView } from 'analytics';
 */
 
-import 'assets/css/odometer-minimal.css';
-import 'rc-drawer/assets/index.css';
-import 'assets/css/modal.css';
-import 'typeface-dm-sans';
+import "assets/css/odometer-minimal.css";
+import "rc-drawer/assets/index.css";
+import "assets/css/modal.css";
+// import 'typeface-dm-sans';
+
+import "../font.css";
 
 export default function CustomApp({ Component, pageProps }) {
   /** 

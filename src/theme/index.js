@@ -27,10 +27,10 @@ export default {
     // },
   },
   fonts: {
-    body: "DM Sans, sans-serif",
+    body: "'Poppins', sans-serif;",
     // body:
     //   'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
-    heading: "DM Sans, sans-serif",
+    heading: "'Poppins', sans-serif;",
     monospace: "Menlo, monospace",
   },
   fontSizes: [
